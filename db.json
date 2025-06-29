@@ -1,4 +1,22 @@
 {
+  "dados": {
+    "alcool": {
+      "quizzesConcluidos": 2,
+      "totalQuizzes": 3,
+      "tarefasConcluidas": 9,
+      "totalTarefas": 10,
+      "videoaulasAssistidas": 2,
+      "totalVideoaulas": 4
+    },
+    "tabaco": {
+      "quizzesConcluidos": 1,
+      "totalQuizzes": 3,
+      "tarefasConcluidas": 4,
+      "totalTarefas": 5,
+      "videoaulasAssistidas": 3,
+      "totalVideoaulas": 4
+    }
+  },
   "questoes": [
     {
       "id": "1",
@@ -66,7 +84,6 @@
       "email": "gomes@gmail.com",
       "senha": "123"
     }
-  
   ],
   "carouselItems": [
     {
@@ -261,28 +278,26 @@
       "detalhes": "Relatos de superação demonstram que a recuperação é possível, reforçam a importância da esperança e mostram o papel de terapias, apoio familiar, espiritualidade e mudança de hábitos na conquista de uma vida livre do vício."
     }
   ],
-     "games" :[
-            {
-                "name": "Quiz",
-                "img": "assets/images/QUIZ.png"
-            },
-            {
-                "name": "Genio quiz",
-                "img": "assets/images/GENIUS.jpg"
-            },
-            {
-                "name": "antistress",
-                "img": "assets/images/STRES.jpg"
-            },
-            {
-                "name": "Enigma",
-                "img": "assets/images/logoENIGMA.png"
-            },
-            {
-                "name": "Piano tiles",
-                "img": "assets/images/piano.jpg"
-            }
-              ] 
-          
-          
+  "games": [
+    {
+      "name": "Quiz",
+      "img": "assets/images/QUIZ.png"
+    },
+    {
+      "name": "Genio quiz",
+      "img": "assets/images/GENIUS.jpg"
+    },
+    {
+      "name": "antistress",
+      "img": "assets/images/STRES.jpg"
+    },
+    {
+      "name": "Enigma",
+      "img": "assets/images/logoENIGMA.png"
+    },
+    {
+      "name": "Piano tiles",
+      "img": "assets/images/piano.jpg"
+    }
+  ]
 }
